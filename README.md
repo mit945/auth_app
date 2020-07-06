@@ -6,6 +6,5 @@
   - Configure sessions to differentiate logging status
   - Salted user password with Bcrypt and Json Web Token
   - Regulate routes to allow the Frontend components to work 
-
-
 ```
+Link: https://scenic-sequoia-55917.herokuapp.com/
